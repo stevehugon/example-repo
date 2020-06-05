@@ -1,2 +1,3 @@
 # example repository
-Just a sample
+Just a first sample
+with a second update
